@@ -7,6 +7,8 @@ Demo URL: https://whatsapp-mern-b4195.web.app/
 
 
 Tech Stack:
+-----------
+
 
 Front End:
 ------------
@@ -14,7 +16,9 @@ Front End:
 
 -> React Hooks
 
-->  Enabled Google Authentication
+-> Enabled Google Authentication
+
+-> Accessing the Login in User Details using the Context API and Reducer
 
 Middleware and Backend:
 -------------------------
